@@ -1,0 +1,43 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.ibb.co.com/QQjSHxs/2.png",
+      "author": "Emily Hart",
+      "author_img": "https://i.ibb.co.com/XSDRvwz/boy1.png",
+      "reading_time": 45 ,
+      "hashtag": "MysteryThriller",
+      "title": "The Silent Witness",
+      "publish_date": "2024-06-20"
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co.com/YWyBmcd/1.jpg",
+      "author": "Mark Thompson",
+      "author_img": "https://i.ibb.co.com/Wy4Gfw0/boy2.jpg",
+      "reading_time": 30,
+      "hashtag": "HistoricalFiction",
+      "title": "Echoes of the Past",
+      "publish_date": "2024-07-05"
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co.com/64kBmqF/3.png",
+      "author": "Lena Rivers",
+      "author_img": "https://i.ibb.co.com/jDRcQd2/girl1.jpg",
+      "reading_time": 37 ,
+      "hashtag": "ScienceFiction",
+      "title": "Galactic Odyssey",
+      "publish_date": "2024-09-01"
+    },
+    {
+      "id": "4",
+      "cover": "https://i.ibb.co.com/Jkqh90F/4.jpg",
+      "author": "Carlos Mendoza",
+      "author_img": "https://i.ibb.co.com/rGWP85k/girl2.jpg",
+      "reading_time": 5,
+      "hashtag": "RomanticDrama",
+      "title": "Love Across Borders",
+      "publish_date": "2024-10-10"
+    }
+  ]
+  
